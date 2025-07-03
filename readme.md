@@ -118,19 +118,19 @@ para ver a documentação e testar a API.
 1. No terminal, faça login na sua conta Google:  
    ```bash
    gcloud auth login
-```
+   ```
 
 2. Defina qual projeto Google Cloud usar:
    ```bash
    gcloud config set project [ID_DO_PROJETO]
-```
+   ```
 
 3. Certifique-se que o Dockerfile está configurado para rodar na porta 8000.
 
 4. Envie a aplicação para o Google Cloud Run com:
    ```bash
   gcloud run deploy --port=8000
-```
+   ```
 
 5. Siga as instruções para escolher região e configurações.
 
