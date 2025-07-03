@@ -11,7 +11,7 @@ Antes de começar, você precisa ter instalado no seu computador:
 - [Python 3.10 ou superior instalado](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
 - [Docker (para rodar a aplicação em containers localmente)](https://www.docker.com/get-started/)
-- Google Cloud SDK (ferramenta `gcloud` para enviar o projeto para a nuvem)
+- [Google Cloud SDK (ferramenta `gcloud` para enviar o projeto para a nuvem)](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe)
 
 ---
 ## Passos para subir o projeto
