@@ -1,6 +1,6 @@
-# Imersão DevOps - Alura Google Cloud (Desafio)
+# Imersão DevOps - Alura Google Cloud (Projeto)
 
-Este projeto é uma API feita com **FastAPI** para gerenciar alunos, cursos e matrículas em uma escola. O projeto não é a parte de programação e sim foco em dev ops
+Este código é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma escola, disponibilizada pela Alura. O foco principal do projeto não está na programação, mas sim na aplicação prática de DevOps.
 
 ---
 
