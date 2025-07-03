@@ -129,12 +129,14 @@ para ver a documentação e testar a API.
 
 4. Envie a aplicação para o Google Cloud Run com:
    ```bash
-  gcloud run deploy --port=8000
+   gcloud run deploy --port=8000
    ```
 
 5. Siga as instruções para escolher região e configurações.
 
 6. Ao final, o Google vai te mostrar uma URL pública onde sua API estará disponível para qualquer um acessar.
+
+---
 
 ## Estrutura do Projeto
 
